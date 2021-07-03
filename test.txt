@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 version-1 done
+=======
+version-1 done
+
+version-2
+	feature-1 done
+>>>>>>> feature-1
